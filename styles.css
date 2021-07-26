@@ -1,6 +1,9 @@
 body {
     background:rgb(186, 154, 172);
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+} 
+h2{
+    text-align: center;
 }
 .posts {
     display: flex;
